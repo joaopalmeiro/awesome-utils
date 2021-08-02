@@ -6,6 +6,18 @@ Utility packages are sufficiently generic packages/libraries that provide a set 
 
 ## Contents
 
+- [JavaScript](#javascript)
+- [Python](#python)
+
+## JavaScript
+
+- [Lodash](https://github.com/lodash/lodash)
+
+## Python
+
+- [funcy](https://github.com/Suor/funcy)
+- [boltons](https://github.com/mahmoud/boltons)
+
 ## Contributing
 
 <!-- awesome-lint: https://github.com/sindresorhus/awesome-lint/blob/main/rules/toc.js#L15 -->
