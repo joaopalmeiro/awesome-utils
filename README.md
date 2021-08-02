@@ -2,7 +2,7 @@
 
 > 🔧 A briefly described list of utility packages for different programming languages.
 
-Utility packages are sufficiently generic packages/libraries that provide a set of utilities (functions, classes, etc.) for different purposes, facilitating code development and maintenance.
+Utility packages are (sufficiently) generic packages/libraries that provide a set of utilities (functions, classes, etc.) for different purposes, facilitating code development and maintenance.
 
 ## Contents
 
